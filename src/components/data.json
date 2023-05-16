@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 6,
+      "name": "dilawar",
+      "sex": "male",
+      "dob": "2023-05-08",
+      "groups": "Biologists"
+    },
+    {
+      "id": 0.17657476066298727,
+      "name": "abdul wahab",
+      "sex": "male",
+      "dob": "2023-05-03",
+      "groups": "Chemistry Capital"
+    },
+    {
+      "id": 0.14312357979520085,
+      "name": "naeem",
+      "sex": "male",
+      "dob": "2023-05-05",
+      "groups": "Web designers"
+    },
+    {
+      "id": 0.7318272790916602,
+      "name": "ahmad",
+      "sex": "male",
+      "dob": "2023-05-17",
+      "groups": "Black magicians"
+    },
+    {
+      "id": 0.319839041539965,
+      "name": "ali",
+      "sex": "male",
+      "dob": "2023-05-16",
+      "groups": "Lame gamer boys"
+    },
+    {
+      "id": 0.8524760837605525,
+      "name": "zain",
+      "sex": "male",
+      "dob": "2023-05-10",
+      "groups": "Typography"
+    },
+    {
+      "id": 0.39893800193837414,
+      "name": "sheraaz",
+      "sex": "male",
+      "dob": "2023-05-03",
+      "groups": "Biologists"
+    },
+    {
+      "id": 0.13270379638691887,
+      "name": "rizwan",
+      "sex": "male",
+      "dob": "2023-05-10",
+      "groups": "Chemistry Capital"
+    },
+    {
+      "id": 0.4024502134058974,
+      "name": "naeem",
+      "sex": "male",
+      "dob": "2023-05-10",
+      "groups": "Black magicians"
+    },
+    {
+      "id": 0.5256671631473928,
+      "name": "neyan",
+      "sex": "male",
+      "dob": "2023-05-17",
+      "groups": "Lame gamer boys"
+    }
+  ]
+}
